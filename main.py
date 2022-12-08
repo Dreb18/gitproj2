@@ -10,5 +10,9 @@ def main():
     my_superfunction()
 
 
+def my_awesomefunction():
+    print('What an beautiful print!')
+
+
 if __name__ == '__main__':
     main()
