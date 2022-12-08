@@ -12,5 +12,9 @@ def main():
     print(1)
 
 
+def my_awesomefunction():
+    print('What an beautiful print!')
+
+
 if __name__ == '__main__':
     main()
